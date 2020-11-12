@@ -1,0 +1,17 @@
+# Awesome Superoptmize
+
+Homeless for now, will probably move this list
+
+
+## LLVM/GCC PGO
+
+Android PGO
+https://source.android.com/devices/tech/perf/pgo
+
+
+Linux Kernel PGO at Microsoft
+https://linuxplumbersconf.org/event/7/contributions/642/contribution.pdf
+[LTO, PGO, and AutoFDO in the kernel](https://www.youtube.com/watch?v=FFjV9f_Ub9o&t=3780s)
+https://linuxplumbersconf.org/event/7/timetable/?print=1&view=standard#150-lto-pgo-and-autofdo-in-the
+
+## BOLT PGO
