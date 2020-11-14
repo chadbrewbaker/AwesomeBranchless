@@ -44,6 +44,10 @@ https://wiki.debian.org/BuildingTutorial#Get_the_source_package
 ```
 
 ```bash
+#  deb <--> RPM
+alien linuxconf-devel-1.16r10-2.i386.rpm
+sudo alien -r libsox1_14.2.0-1_i386.deb
+
 #hack the spec for RPM
 rpmrebuild -pe tunesviewer-1.4-2.noarch.rpm
 ```
