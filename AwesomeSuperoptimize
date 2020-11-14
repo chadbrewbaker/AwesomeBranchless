@@ -37,6 +37,17 @@ https://www.cyberciti.biz/faq/how-to-get-source-code-of-package-using-the-apt-co
 https://wiki.debian.org/BuildingTutorial#Get_the_source_package
 
 ```bash
-
-
+ #get list of dependencies
+ yum deplist <package name>
+ dnf deplist  <package name>
+ apt-cache depends <package name>
 ```
+
+```bash
+#hack the spec for RPM
+rpmrebuild -pe tunesviewer-1.4-2.noarch.rpm
+```
+
+
+
+
