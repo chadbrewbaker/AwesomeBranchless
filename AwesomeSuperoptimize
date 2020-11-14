@@ -52,6 +52,23 @@ sudo alien -r libsox1_14.2.0-1_i386.deb
 rpmrebuild -pe tunesviewer-1.4-2.noarch.rpm
 ```
 
+```bash
+deb http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
 
+deb http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
+
+deb http://archive.canonical.com/ubuntu focal partner
+deb-src http://archive.canonical.com/ubuntu focal partner
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3B4FE6ACC0B21F32
+
+```
 
 
