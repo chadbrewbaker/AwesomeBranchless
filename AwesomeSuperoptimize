@@ -17,6 +17,15 @@ https://linuxplumbersconf.org/event/7/timetable/?print=1&view=standard#150-lto-p
 ## BOLT PGO
 
 
+#Fedora
+
+wget https://github.com/fedora-cloud/docker-brew-fedora/raw/33/x86_64/fedora-33.20201110-x86_64.tar.xz
+unxz fedora-33.20201110-x86_64.tar.xz
+mv fedora-33.20201110-x86_64.tar /mnt/d/
+#switch to windows
+ wsl --import Fedora-33 D:\wsl\Fedora-33  D:\fedora-33.20201110-x86_64.tar
+
+
 ## Getting Packages
 https://gist.githubusercontent.com/ishad0w/788555191c7037e249a439542c53e170/raw/3822ba49241e6fd851ca1c1cbcc4d7e87382f484/sources.list
 
