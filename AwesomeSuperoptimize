@@ -5,6 +5,22 @@ Homeless for now, will probably move this list
 
 ## LLVM/GCC PGO
 
+2020 LLVM Developers meeting
+PGO instrumentation https://www.youtube.com/watch?v=GBtQrYx_Jbc
+IPC future optimization https://www.youtube.com/watch?v=uC-x_Je_sIw
+IPC deep dive https://www.youtube.com/watch?v=I4Iv-HefknA
+Clang static analyzer https://www.youtube.com/watch?v=nTslG8HtKeA
+PGO instrumentation https://www.youtube.com/watch?v=kauauderlAU
+Code size optimizations https://www.youtube.com/watch?v=puZ2B408VsM
+lld performance (2013)https://www.youtube.com/watch?v=ONGVraXbJOo
+Paquette LLVM basics https://www.youtube.com/watch?v=3QQuhL-dSys
+weaving instrumentation for PGO https://www.youtube.com/watch?v=T8qGbze3apo
+Alive2 https://www.youtube.com/watch?v=paJhdBp_iA4
+Hot cold splitting pass https://www.youtube.com/watch?v=Q8rqGg6vHAE
+Propeller https://www.youtube.com/watch?v=DySuXFGmB40
+SOUPER https://www.youtube.com/watch?v=5eSOWM0upN8
+Portable SIMD with zig https://www.youtube.com/watch?v=CRSmOlCxHZE
+
 Android PGO
 https://source.android.com/devices/tech/perf/pgo
 
