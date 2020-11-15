@@ -41,6 +41,9 @@ https://wiki.debian.org/BuildingTutorial#Get_the_source_package
  yum deplist <package name>
  dnf deplist  <package name>
  apt-cache depends <package name>
+ #just download
+dnf download package-name
+apt-get install --download-only package_name
 ```
 
 ```bash
