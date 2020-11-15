@@ -44,6 +44,7 @@ https://wiki.debian.org/BuildingTutorial#Get_the_source_package
  #just download
 dnf download package-name
 apt-get install --download-only package_name
+yumdownloader --source redis
 ```
 
 ```bash
