@@ -20,6 +20,7 @@ Hot cold splitting pass https://www.youtube.com/watch?v=Q8rqGg6vHAE
 Propeller https://www.youtube.com/watch?v=DySuXFGmB40
 SOUPER https://www.youtube.com/watch?v=5eSOWM0upN8
 Portable SIMD with zig https://www.youtube.com/watch?v=CRSmOlCxHZE
+https://github.com/ziglang/zig/blob/master/test/stage1/behavior/vector.zig
 
 Android PGO
 https://source.android.com/devices/tech/perf/pgo
