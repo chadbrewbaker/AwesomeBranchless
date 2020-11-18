@@ -25,6 +25,8 @@ integer next_dyck_word(integer w) {
 }
 ```
 
+[Microsoft CLR 6](https://github.com/dotnet/runtime/issues/43629)
+
 [Rust safeeft -branchless floating point transforms](https://docs.rs/safeeft/0.0.5/safeeft/)
 
 [Branchless Search Algorithms](http://www.cphstl.dk/Paper/Branchless-search/sea13.pdf)
