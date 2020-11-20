@@ -4,6 +4,7 @@ Homeless for now, will probably move this list
 
 
 ## Clang
+[redhat article](https://developers.redhat.com/blog/2020/07/06/profile-guided-optimization-in-clang-dealing-with-modified-sources/)
 ```bash
 -fprofile-instr-generate
 ```
