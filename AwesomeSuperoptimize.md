@@ -7,8 +7,13 @@ Homeless for now, will probably move this list
 [redhat article](https://developers.redhat.com/blog/2020/07/06/profile-guided-optimization-in-clang-dealing-with-modified-sources/)
 ```bash
 -fprofile-instr-generate
+-fprofile-instr-generate= #Send profile to specific path/name
+LLVM_PROFILE_FILE="code-%p.profraw" ./code # Set path as environment variable
 -fcoverage-mapping  #Code coverage
+-flto=thin #ThinLTO
+-flto #Full LTO
 ```
+[code coverage](https://clang.llvm.org/docs/SourceBasedCodeCoverage.html#compiling-with-coverage-enabled)
 
 ## LLVM
 ```bash
