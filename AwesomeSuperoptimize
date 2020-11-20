@@ -3,6 +3,22 @@
 Homeless for now, will probably move this list
 
 
+## Clang
+```bash
+-fprofile-instr-generate
+```
+
+## LLVM
+```bash
+-fprofile-generate
+```
+
+
+
+## macOS aarch64
+[Profiling with sample](https://gist.github.com/loderunner/36724cc9ee8db66db305)
+
+
 ## LLVM/GCC PGO
 
 2020 LLVM Developers meeting
